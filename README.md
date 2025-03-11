@@ -72,5 +72,10 @@ The dataset consists of **6,435 rows** and contains the following key columns:
 ##  Author & Contributions  
  **Shabareesh1383**  
  **GitHub Repository**: [Walmart Sales Analysis using Power BI](https://github.com/shabareesh1383/Walmart-Sales-Analysis-using-PowerBI)  
+ ---
+**🔗 Connect & Follow:**
+For further discussions or collaborations, connect with me on **[LinkedIn](https://www.linkedin.com/in/shabareesh-pemmaraju-349434230/)**.
+
+Happy Analyzing! 🚀
 
 Feel free to contribute, suggest improvements, or share feedback!  
